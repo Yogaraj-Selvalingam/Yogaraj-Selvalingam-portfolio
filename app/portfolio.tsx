@@ -497,7 +497,8 @@ export default function Portfolio() {
         </div>
 
         <a
-          href="https://www.linkedin.com/in/yogaraj-s-689121aa/"
+          href="https://www.linkedin.com/in/yogaraj-selvalingam-689121aa/"
+          
           target="_blank"
           rel="noreferrer"
           className="text-blue-600 hover:underline"
