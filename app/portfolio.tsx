@@ -487,7 +487,7 @@ export default function Portfolio() {
         </div>
 
         <div className="text-slate-800">
-          +31 6 4987 0444
+          +31 6 4987 0455
         </div>
       </div>
 
